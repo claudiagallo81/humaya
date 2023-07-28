@@ -1,0 +1,37 @@
+
+.fondo-humaya-header {
+    background-image: url(../../public/img/imagenCentral.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    height: auto;
+}
+
+.navbar-toggler {
+    background-color: white !important;
+}
+
+.btn-conocenos:hover {
+    background-color: rgb(34, 33, 33) !important;
+
+}
+
+
+@media screen and (min-width: 300px) {
+    .navbar-brand {
+        display:none;
+    }
+}
+@media screen and (max-width:800px) {
+    .logo {
+        display:none;
+    }
+
+    .fondo-humaya-header {
+        height: auto;
+    }
+}
+.navbar-nav .nav-link:not(:last-child) {
+    margin-right: 80px; 
+  }
+  

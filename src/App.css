@@ -1,0 +1,26 @@
+footer ul li:first-of-type {
+  color: #BCA177;
+  text-transform: uppercase;
+}
+footer ul li {
+  list-style: none;
+  font-size: 1.1rem;
+  padding: 0.4rem;
+}
+footer ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+
+}
+
+footer ul li a:hover {
+  color: #BCA177;
+}
+
+.iconos-redes {
+  width: 40px;
+  margin: 5px;
+  filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(100%) hue-rotate(358deg) brightness(100%) contrast(100%)
+
+}

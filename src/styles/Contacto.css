@@ -1,0 +1,23 @@
+.contactoTextColor {
+    color: #7c3012;
+}
+
+.contactoImage {
+    background-image: url(/public/img/contacto.jpg);
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    min-height: 350px;
+}
+
+.btnContacto {
+    background-color: rgb(249, 245, 245);
+    border: 0.3rem solid #613f1b !important;
+    color: #613f1b;
+}
+
+.btnContacto:hover {
+    background-color: #613f1b;
+    color: white;
+}
+

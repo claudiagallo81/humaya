@@ -1,0 +1,28 @@
+.recetas {
+    background-color: #201F1F;
+}
+
+.cardStyles {
+    background-color: #BCA177;
+}
+
+.cardStyles h5 {
+    color: #664621;
+}
+
+.btnRecetas {
+    background-color: #BCA177;
+    border: #664621 solid 2px;
+    color: #664621;
+}
+
+.btnRecetas:hover {
+    background-color:#664621;
+    color: white;
+}
+
+.imgMinHeight {
+    height: 200px;
+    object-fit: cover;
+
+}

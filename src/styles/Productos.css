@@ -1,0 +1,66 @@
+
+.productos-encabezado {
+    background-color: rgb(89, 86, 86);
+    color: rgb(225, 225, 225);
+}
+
+.card {
+    --bs-card-border-width: 0px;
+    border-radius: 0px;
+}
+
+.card-title {
+    color: rgb(250, 203, 116);
+    font-weight: 100;
+}
+
+.card-text {
+    color: rgb(255, 255, 255);
+}
+
+.card-text .text-muted {
+    color: rgb(250, 203, 116) !important;
+    font-weight: 600;
+    
+}
+
+.image-prods {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+ 
+}
+
+.btn-info-prods:hover {
+    background-color: #FFC107 !important;
+    color: #886600 !important;
+}
+
+.producto-destacado {
+    background-color: #bca177;
+}
+
+.producto-destacado :nth-child(1){
+    color: #594300 !important;
+}
+
+.btn-info-prods-destacado {
+    background-color: #bca177 !important;
+    color: #594300 !important;
+    border-color: #594300 !important;
+}
+
+.btn-info-prods-destacado:hover {
+    background-color: #594300 !important;
+    color: #bca177 !important;
+    border-color: #594300 !important;
+}
+
+.productos-calidad {
+    background-color: #2e2c2c;
+}
+
+.iconos-calidad {
+    filter: brightness(0) saturate(100%) invert(73%) sepia(13%) saturate(883%) hue-rotate(357deg) brightness(88%) contrast(88%);
+}
