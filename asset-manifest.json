@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/humaya/static/css/main.ed9e2ffd.css",
+    "main.js": "/humaya/static/js/main.3f318b4a.js",
+    "static/js/787.16d3b499.chunk.js": "/humaya/static/js/787.16d3b499.chunk.js",
+    "static/media/contacto.jpg": "/humaya/static/media/contacto.30273b1b5ca2b9ab4e2a.jpg",
+    "static/media/imagenCentral.png": "/humaya/static/media/imagenCentral.52a77c99642e0e65fe72.png",
+    "index.html": "/humaya/index.html",
+    "main.ed9e2ffd.css.map": "/humaya/static/css/main.ed9e2ffd.css.map",
+    "main.3f318b4a.js.map": "/humaya/static/js/main.3f318b4a.js.map",
+    "787.16d3b499.chunk.js.map": "/humaya/static/js/787.16d3b499.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9e2ffd.css",
+    "static/js/main.3f318b4a.js"
+  ]
+}
